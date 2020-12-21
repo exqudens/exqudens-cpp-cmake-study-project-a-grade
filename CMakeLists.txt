@@ -3,7 +3,7 @@
 
 cmake_minimum_required(VERSION 3.17)
 
-project(ExqudensCStudyProjectAGrade)
+project(exqudens_cpp_cmake_study_project_a_grade)
 
 set(CMAKE_CXX_STANDARD 20)
 
